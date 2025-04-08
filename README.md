@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to read all the data in the JSON file and how to display it into the html file
+I learned how to read all the data in the JSON file and how to display it in the html file
 ```js
 async function loadProducts() {
   try {
@@ -80,7 +80,7 @@ async function loadProducts() {
   }
 }
 ```
-I also learned how to get a copy of data and display it ont he screen in a different way
+I also learned how to get a copy of data and display it on the screen in a different way
 ```js
 function purchase() {
   const main = document.getElementById('card');
