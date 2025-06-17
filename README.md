@@ -1,6 +1,6 @@
 # Product list with cart
 
-This is a solution to the [Product list with cart challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+[Website](https://andres-55.github.io/product-list-with-cart/)
 
 ## Table of contents
 
@@ -28,17 +28,9 @@ Users should be able to:
 ### Screenshot
 ![image](https://github.com/user-attachments/assets/f8a18d68-9437-417d-9389-9b97afa81e0b)
 
-### Links
-
-- Solution URL: [https://github.com/Andres-55/product-list-with-cart](https://your-solution-url.com)
-- Live Site URL: [https://andres-55.github.io/product-list-with-cart/](https://your-live-site-url.com)
-
-## My process
-
 ### Built with
 
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
 
